@@ -1,0 +1,12 @@
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\bin\Debug\Jocuri.exe.config
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\bin\Debug\GamesDB.mdf
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\bin\Debug\GamesDB_log.ldf
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\obj\Debug\Jocuri.csprojResolveAssemblyReference.cache
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.Cache
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\obj\Debug\Jocuri.exe
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\obj\Debug\Jocuri.pdb
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\obj\Debug\Jocuri.ModifyForm.resources
+C:\Users\Iulian\Desktop\info\Jocuri\Jocuri\obj\Debug\Jocuri.MainForm.resources
